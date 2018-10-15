@@ -1,5 +1,9 @@
-#logo {
-    height: 60px;
+* {
+    box-sizing: border-box;
+}
+
+html {
+    font-family: heletica;
 }
 
 .photos {
@@ -8,4 +12,12 @@
 
 .font {
     font-family: cursive; font-size: 20 px;
+}
+
+.margin {
+    margin-left: 70px
+}
+
+#logo {
+    height: 60px;
 }
