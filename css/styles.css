@@ -3,21 +3,32 @@
 }
 
 html {
-    font-family: heletica;
+    font-family: helvetica;
 }
 
 .photos {
-    height: 200px
+    height: 200px;
 }
 
 .font {
-    font-family: cursive; font-size: 20 px;
+    font-family: cursive; font-size: 20px;
 }
 
 .margin {
-    margin-left: 70px
+    margin-left: 70px;
 }
 
 #logo {
     height: 60px;
+}
+
+h1 {
+    border: 2px solid #000000;
+    padding: 10px;
+    background-color: antiquewhite;    
+}
+
+h2 {
+    border: 2px solid #000000;
+    padding: 10px;
 }
